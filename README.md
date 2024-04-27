@@ -5,7 +5,7 @@ Progressive Web Applications (PWA) Challenge: Text Editor
 
 PWA: Text Editor is a in-browser text editor that runs in the browser. This app is a single-page application, using the Progressive Web application technology and implementing said tech to make an dynamic Text Editor. Additionally, this application will be able to function offline.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
